@@ -9,6 +9,13 @@ This is a Python (2 and 3) library that provides a **webcam-based eye tracking s
 
 [![Demo](https://youtu.be/R0CtTGg0YYE)](https://youtu.be/R0CtTGg0YYE)
 
+<video controls width="640" height="480">
+  <source src="https://youtu.be/R0CtTGg0YYE" type="video/mp4">
+  <source src="https://youtu.be/R0CtTGg0YYE" type="video/webm">
+  Your browser does not support the video tag.
+</video>
+
+
 _🚀 Quick note: I'm looking for job opportunities as a software developer, for exciting projects in ambitious companies. Anywhere in the world. Send me an email!_
 
 ## Installation
